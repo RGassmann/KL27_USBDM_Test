@@ -1,0 +1,68 @@
+# depslib dependency file v1.0
+1455212323 source:d:\github\kl17\base\src\application\main.c
+	"main.h"
+	<MKL17Z4.h>
+	<MKL17Z4_IBG.h>
+
+1452617788 d:\github\kl17\base\src\application\main.h
+
+1455204401 d:\github\kl17\base\src\startup\include\mkl17z4.h
+	<stdint.h>
+	"core_cm0plus.h"
+	"system_MKL17Z4.h"
+
+1452615116 d:\github\kl17\base\src\startup\include\cmsis\core_cm0plus.h
+	<stdint.h>
+	<core_cmInstr.h>
+	<core_cmFunc.h>
+
+1452615116 d:\github\kl17\base\src\startup\include\cmsis\core_cminstr.h
+	<cmsis_iar.h>
+	<cmsis_ccs.h>
+	<cmsis_csm.h>
+
+1452615116 d:\github\kl17\base\src\startup\include\cmsis\core_cmfunc.h
+	<cmsis_iar.h>
+	<cmsis_ccs.h>
+	<cmsis_csm.h>
+
+1455211193 d:\github\kl17\base\src\startup\include\system_mkl17z4.h
+	<stdint.h>
+
+1455206311 d:\github\kl17\base\src\startup\include\mkl17z4_ibg.h
+
+1455211774 source:d:\github\kl17\base\src\startup\src\startup_mkl17z4.s
+
+1455204401 source:d:\github\kl17\base\src\startup\src\system_mkl17z4.c
+	<stdint.h>
+	"MKL17Z4.h"
+
+1455204401 source:d:\github\kl27z644\base\src\startup\src\startup_mkl27z644.s
+
+1455204401 source:d:\github\kl27z644\base\src\startup\src\system_mkl27z644.c
+	<stdint.h>
+	"MKL27Z644.h"
+
+1455204401 d:\github\kl27z644\base\src\startup\include\mkl27z644.h
+	<stdint.h>
+	"core_cm0plus.h"
+	"system_MKL27Z644.h"
+
+1452615116 d:\github\kl27z644\base\src\startup\include\cmsis\core_cm0plus.h
+	<stdint.h>
+	<core_cmInstr.h>
+	<core_cmFunc.h>
+
+1452615116 d:\github\kl27z644\base\src\startup\include\cmsis\core_cminstr.h
+	<cmsis_iar.h>
+	<cmsis_ccs.h>
+	<cmsis_csm.h>
+
+1452615116 d:\github\kl27z644\base\src\startup\include\cmsis\core_cmfunc.h
+	<cmsis_iar.h>
+	<cmsis_ccs.h>
+	<cmsis_csm.h>
+
+1455204401 d:\github\kl27z644\base\src\startup\include\system_mkl27z644.h
+	<stdint.h>
+
